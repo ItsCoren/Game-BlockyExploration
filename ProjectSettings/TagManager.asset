@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - Goal
+  - Semi Solid
+  - MasterVolumeSlider
+  - SFXVolumeSlider
+  - MusicVolumeSlider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - player
+  - 
+  - semiSolid
+  - realBlock
+  - obstacles
+  - goal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2871398539
+    locked: 0
+  - name: Special Blocks
+    uniqueID: 2723574305
+    locked: 0
+  - name: Obstacles
+    uniqueID: 4078564983
+    locked: 0
+  - name: Terrain
+    uniqueID: 1145769363
+    locked: 0
+  - name: Player
+    uniqueID: 1037298383
+    locked: 0
+  - name: Foreground
+    uniqueID: 4241625875
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
